@@ -6,6 +6,7 @@ on:
     - cron: "0 0 * * *"
     # 18:00 Asia/Bangkok (UTC+7) → 11:00 UTC
     - cron: "0 10 * * *"
+    
   workflow_dispatch: {}
 
 
